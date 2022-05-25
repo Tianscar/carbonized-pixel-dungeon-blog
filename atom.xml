@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>碳化的像素地牢</title>
+  <icon>https://cbpd.tianscar.com/icon.png</icon>
+  
+  <link href="https://cbpd.tianscar.com/atom.xml" rel="self"/>
+  
+  <link href="https://cbpd.tianscar.com/"/>
+  <updated>2022-05-25T22:05:31.182Z</updated>
+  <id>https://cbpd.tianscar.com/</id>
+  
+  <author>
+    <name>Tianscar</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>更新计划！</title>
+    <link href="https://cbpd.tianscar.com/2022/05/26/update-plans/"/>
+    <id>https://cbpd.tianscar.com/2022/05/26/update-plans/</id>
+    <published>2022-05-25T20:45:28.000Z</published>
+    <updated>2022-05-25T22:05:31.182Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;虽然碳化的像素地牢是一个新生的像素地牢改版，但是我已经写好了完整的更新计划！&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="预告" scheme="https://cbpd.tianscar.com/categories/%E9%A2%84%E5%91%8A/"/>
+    
+    
+    <category term="计划" scheme="https://cbpd.tianscar.com/tags/%E8%AE%A1%E5%88%92/"/>
+    
+    
+    
+  </entry>
+  
+</feed>
