@@ -7,7 +7,7 @@ ingame: true
 ---
 
 虽然碳化的像素地牢是一个新生的像素地牢改版，但是我已经写好了完整的更新计划！
-<p style="display:none;">MARK</p>
+<!-- DESC_END -->
 
 ---
 

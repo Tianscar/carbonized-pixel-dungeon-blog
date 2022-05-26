@@ -118,7 +118,7 @@ feed:
   content:
 #  content_limit: 140
   content_limit: 233
-  content_limit_delim: '<p style="display:none;">MARK</p>'
+  content_limit_delim: '<!-- DESC_END -->'
   order_by: -date
   icon: icon.png
   autodiscovery: true
