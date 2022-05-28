@@ -1,7 +1,7 @@
 ---
 title: 仓库番和露珠瓶重制！
 date: 2022-05-28 21:39:24
-tags: [计划, 区域, 物品]
+tags: [计划, 区域, 物品, 炼金]
 categories: [预告]
 ingame: true
 icon: '16: ITEM: 503'
