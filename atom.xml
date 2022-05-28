@@ -6,7 +6,7 @@
   <link href="https://cbpd.tianscar.com/atom.xml" rel="self"/>
   
   <link href="https://cbpd.tianscar.com/"/>
-  <updated>2022-05-28T15:02:12.816Z</updated>
+  <updated>2022-05-28T15:09:06.880Z</updated>
   <id>https://cbpd.tianscar.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://cbpd.tianscar.com/2022/05/28/sokoban-and-reworked-dew-vial/"/>
     <id>https://cbpd.tianscar.com/2022/05/28/sokoban-and-reworked-dew-vial/</id>
     <published>2022-05-28T13:39:24.000Z</published>
-    <updated>2022-05-28T15:02:12.816Z</updated>
+    <updated>2022-05-28T15:09:06.880Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;最近玩了发芽的像素地牢，得到了一些灵感，于是准备移植一些东西到碳化的像素地牢！还记得发芽的像素地牢的推羊关（仓库番）和露珠瓶吗？它们将被修改后加入到碳化的像素地牢！&lt;/p&gt;
+    <summary type="html">&lt;p&gt;最近玩了发芽的像素地牢，得到了一些灵感，于是准备从它那里移植一些东西到碳化的像素地牢！还记得发芽的像素地牢的推羊关（仓库番）和露珠瓶吗？它们将被加入到碳化的像素地牢！&lt;/p&gt;
 </summary>
         
       
@@ -39,6 +39,10 @@
     
     
     <category term="计划" scheme="https://cbpd.tianscar.com/tags/%E8%AE%A1%E5%88%92/"/>
+    
+    <category term="区域" scheme="https://cbpd.tianscar.com/tags/%E5%8C%BA%E5%9F%9F/"/>
+    
+    <category term="物品" scheme="https://cbpd.tianscar.com/tags/%E7%89%A9%E5%93%81/"/>
     
     
     
