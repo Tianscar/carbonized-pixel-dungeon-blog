@@ -1,4 +1,4 @@
-# cbpd-blog
+# Carbonized Pixel Dungeon Blog
 Official blog of Carbonized Pixel Dungeon.
 
 ## License
